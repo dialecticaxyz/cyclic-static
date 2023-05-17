@@ -13,17 +13,9 @@
   "author": "greg",
   "license": "MIT",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "cors": "^2.8.5",
-    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express-ws": "^5.0.2",
-    "hbs": "^4.2.0",
-    "jsonwebtoken": "^9.0.0",
-    "nedb": "^1.8.0",
-    "node-localstorage": "^2.2.1",
-    "nodemailer": "^6.9.1",
-    "uuid": "^9.0.0"
+    "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
